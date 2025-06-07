@@ -22,7 +22,9 @@ This is a simple **Java Hello World program** integrated with **Jenkins** to dem
 ## 📸 Screenshots
 
 ### ✅ Jenkins Build Success Output
-![image](https://github.com/user-attachments/assets/383e6e18-f886-4f77-9802-6bb0acd47a22)
+![image](https://github.com/user-attachments/assets/11b0d60f-e8e1-4736-95b2-2cbe9069ef26)
+![image](https://github.com/user-attachments/assets/ecdd49dd-587a-4359-8020-825464c9e32c)
+
 
 
 ---
@@ -39,7 +41,10 @@ This is a simple **Java Hello World program** integrated with **Jenkins** to dem
 ---
 
 ## 🙌 Connect With Me
+
 Parminderjit Singh
+
 🔗 [GitHub](https://github.com/parminder911)
-🌐 LinkedIn [if available](https://www.linkedin.com/in/parminderjit/)
+
+🌐  [LinkedIn](https://www.linkedin.com/in/parminderjit/)
 
