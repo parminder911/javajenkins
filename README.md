@@ -38,5 +38,8 @@ This is a simple **Java Hello World program** integrated with **Jenkins** to dem
 
 ---
 
-## 📁 Java File Structure
+## 🙌 Connect With Me
+Parminderjit Singh
+🔗 [GitHub](https://github.com/parminder911)
+🌐 LinkedIn [if available](https://www.linkedin.com/in/parminderjit/)
 
