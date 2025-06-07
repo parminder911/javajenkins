@@ -25,9 +25,6 @@ This is a simple **Java Hello World program** integrated with **Jenkins** to dem
 ![image](https://github.com/user-attachments/assets/383e6e18-f886-4f77-9802-6bb0acd47a22)
 
 
-### ⚠️ Jenkins Build Error Example (Before Fix)
-![Build Error Screenshot](screenshots/build-error.png)
-
 ---
 
 ## 🧠 What I Learned
